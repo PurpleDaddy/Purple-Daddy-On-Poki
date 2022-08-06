@@ -1,6 +1,6 @@
 {
     "trimesterId": "30a682ac-7b62-4ecf-aa8c-50b36fc7640f",
-    "killSwitch": false,
+    "killSwitch": true,
     "whiteList":[
         "Ahmad Adnan Mansour Alshakhatreh",
         "Abdulla Sultan Yousef Salem Alhammadi",
